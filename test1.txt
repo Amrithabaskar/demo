@@ -1,1 +1,2 @@
 Created a test1.txt file
+AMritha is trying to learn Git and Github.
